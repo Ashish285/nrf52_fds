@@ -42,6 +42,9 @@
 *.idb
 *.pdb
 
+#Build
+firmware/iar_project/nrf52832_xxaa/*
+
 # Kernel Module Compile Results
 *.mod*
 *.cmd
